@@ -1,1 +1,1 @@
-# img_recognitions
+识别图像字符  2018.06.28

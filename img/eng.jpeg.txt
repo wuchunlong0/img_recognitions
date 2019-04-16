@@ -1,0 +1,40 @@
+1
+
+Pa e segmentation modes: .
+g Orientation and script detection (05D) only.
+
+1 Automatic page segmentation with OSD.
+
+2 Automatic page segmentation, but no 050, or' OCR.
+
+3 Fully automatic page segmentation, but no 059. (Default)
+4 Assume a single column of text of variable sues.
+
+5 Assume a single uniform block of vertically ahgned text.
+6
+
+7
+
+8
+
+Assume a single uniform block of text.
+
+Treat the image as a single text line.
+Treat the image as a single word.
+9 Treat the image as a single word in a circle.
+
+10 Treat the image as a single character.
+11 Sparse text. Find as much text as possible in no particular order.
+
+12 Sparse text with OSD.
+13 Raw line. Treat the image as a single text line,
+bypassing hacks that are Tesseract-specific.
+
+OCR Engine modes:
+0 Original Tesseract only.
+1 Cube only.
+2 Tesseract + cube.
+3 Default, based on what is available.
+
+ 
+
